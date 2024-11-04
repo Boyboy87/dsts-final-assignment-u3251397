@@ -1,0 +1,4 @@
+*.csv
+*.html
+data/
+compressed_file/
